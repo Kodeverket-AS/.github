@@ -1,26 +1,27 @@
-# 👩‍💻 Kodeverket
+[![Kodeverket_Logo](https://github.com/user-attachments/assets/2b569a37-cc7e-4987-9e7d-a7c3e50f2209)](https://kodeverketbergen.no)
 
-**Location:** Bergen, Norway  
-**Founded:** 2022
 
-Welcome to **Kodeverket**!  
-We’re a growing tech initiative based in Bergen, Norway, focused on creating real-world work experience opportunities for new developers.
+<!-- Har brukt LATEX til farge på tekst -->
+$${\color{blue}< \space Hvem \space er \space vi \space >}$$
+I Kodeverket Bergen står menneskelig utvikling i sentrum. Vi tilbyr en trygg arena for å hjelpe mennesker tilbake til arbeidslivet, samtidig som vi skaper kreative teknologiske løsninger. Med dedikerte utviklere og praksiskandidater designer vi digitale opplevelser som gir mening; fra unike nettsider til skreddersydde CMS-systemer. Sammen med våre kunder finner vi den beste veien mot en moderne, digital fremtid.
 
-## 🌱 About Us
 
-Kodeverket started in 2022 and has grown steadily ever since.  
-We work closely with candidates from our course **Kodehodet**, giving them the chance to work on real projects for real clients. The aim is to bridge the gap between learning and working — providing valuable, hands-on experience that they can showcase in job applications.
 
-## 💼 What We Do
+$${\color{blue}< \space Hva \space gjør \space vi \space >}$$
+Vi utvikler moderne digitale løsninger, fra nettsider til skreddersydde applikasjoner, med høy faglig kvalitet og fokus på brukeropplevelse. Samtidig bygger vi noe som er minst like viktig, nemlig mennesker. Gjennom vårt arbeid gir vi tekniske talenter som har falt utenfor arbeidslivet en reell vei inn i bransjen, med praktisk erfaring, mestring og tilhørighet.
 
-- Offer real coding experience to aspiring developers
-- Connect candidates with real-life projects and clients
-- Document their contributions and growth for future employment
+For våre kunder betyr dette mer enn bare et ferdig produkt. Det betyr samarbeid med et team som er tett på, løsningsorientert og drevet av ekte engasjement. Det betyr også å være en del av noe større, der man bidrar til sosial bærekraft, inkludering og utvikling av fremtidens kompetanse.
 
-## 🤝 Join Us
+Hos Kodeverket står mennesket i sentrum, både i løsningene vi bygger og i måten vi bygger dem på.
 
-Whether you’re a developer, a client looking for a project partner, or just curious about what we do — feel free to explore our repositories or reach out!
+Vi leverer ikke bare kode. Vi skaper muligheter.
 
----
+***
 
-📍 _Kodeverket – Giving tomorrow’s developers real-world experience today._
+$${\color{blue}< Techstack >}$$
+[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,typescript,vercel,angular,astro,css,discord,fastapi,figma,firebase,git,github,githubactions,gmail,md,nodejs,npm,powershell,py,react,sass,styledcomponents,supabase,vite,vscode,webflow,windows,wordpress)](https://skillicons.dev)
+
+***
+
+$${\color{blue}< \space Våre \space Prosjekter \space >}$$
+[![JobLoop](https://www.jobloop.no/JobloopFarge.svg)](https://jobloop.no) [![Kodehode](https://www.kodehode.no/_next/static/media/logoDesktopFarge.425f5d05.svg)](https://kodehode.no) [![Bergen Armwrestling](https://www.bergenarmwrestling.no/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogov2.8697bda2.png&w=128&q=75)](https://bergenarmwrestling.no)
